@@ -1,6 +1,6 @@
 
 ## About
-Creating models and using different algorithms to detect types of iris plants (setosa, versicolor and virginica).
+Creating models and using different algorithms to detect types of iris plants (setosa, versicolor, and virginica).
 \
 &nbsp;
 
@@ -18,7 +18,7 @@ Creating models and using different algorithms to detect types of iris plants (s
 \
 &nbsp;
 * Open Jupyter Notebook: **`jupyter notebook`**
-    * Jupyter notebook will get executed in the browser, open iris.ipynb file and click on run button to the run the different cells.
+    * Jupyter notebook will get executed in the browser, open iris.ipynb file and click on the run button to run the different cells.
 \
 &nbsp;
 * Exit Jupyter Notebook (option 1): click on the quit button in the Jupyter Notebook Home Page and close the browser tabs.
