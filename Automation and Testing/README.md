@@ -2,7 +2,7 @@
 ## About
 Using Selenium to automate/test some actions over this [website](https://www.seleniumeasy.com/test/basic-first-form-demo.html).
 \
-The script writes a messsage in the input field, it clicks the show message button and it shows the message in the output field.
+The script writes a message in the input field, clicks the show message button, and shows the message in the output field.
 \
 &nbsp;
 
