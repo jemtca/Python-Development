@@ -1,8 +1,12 @@
 
 ## About
-Portfolio website where Flash was used in the back-end.
+Portfolio website example with the back-end implemented with Flask.
 \
-MORE AND DEPLOY IT!
+\
+Univers template from [Mashup Template](http://www.mashup-template.com/templates.html) where the contact section was modified to send information (email, subject, and message) to the server and store it in a CSV file.
+\
+\
+Web App deployed to [pythonanywhere](https://www.pythonanywhere.com/): Take a look [here](https://sanede.pythonanywhere.com/).
 \
 &nbsp;
 
